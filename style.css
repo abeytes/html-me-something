@@ -1,0 +1,84 @@
+html{
+    background-image: url(images/Dark.jpg)
+    
+}
+body{
+    
+    padding-left:100px;
+    overflow : auto;
+    
+}
+div.header {
+    background-image:url(images/fixx.jpg);
+    position: fixed;
+    width: 4500px;
+    height:550px;
+    top : 10px;
+    padding-right: 100px;
+    z-index: 100px;
+    
+}
+h1{
+    font-size:1000%;
+    font-family: cursive Arial Narrow Bold;
+    color:black;
+    text-align: center;}
+ 
+h4 {
+    text-align: center;
+    font-size:600%;
+}
+article{
+    padding-top: 800px;
+}
+
+div.skyview , div.kerry{
+    width:2100px;
+    float:left;
+    margin:5px;
+    border-bottom: 2px solid orange;
+    padding-bottom:200px;
+}
+
+
+p {
+    font-family:Helvetica Neue;
+    margin:10px;
+    font-size:400%;
+    width:1800px;
+    color:whitesmoke;
+    text-align:center;}
+div.seacrest{
+    padding-top: 200px;
+    
+}
+
+div.gaswork{
+    padding-top: 200px;
+    text-align-last: left;
+    
+}
+td.gassw{
+    width:1500;
+
+    text-align:left;
+    padding:10px;
+}
+div.waterfront{
+    padding-top:200px;
+    text-align: left;
+    margin:0px;
+}
+
+footer,h3{
+    text-align:center;
+    color:black;
+    font-size:50%;
+    background-color: lightskyblue;
+    width: 4450px;
+}
+
+
+
+    
+    
